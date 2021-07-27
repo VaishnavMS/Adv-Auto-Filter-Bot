@@ -16,10 +16,10 @@ async def start(bot, update):
         InlineKeyboardButton('FILM_HUNTER__🎥', url='https://t.me/joinchat/awlj6rFn0rM3NzA1')
     ],[
 
-        InlineKeyboardButton('Animé', url='https://t.me/joinchat/awlj6rFn0rM3NzA1')
+        InlineKeyboardButton('Animé', url='https://t.me/joinchat/FULGx0VDb3gyMjY1')
 
      ],[
-        InlineKeyboardButton('Series', url='https://t.me/joinchat/awlj6rFn0rM3NzA1')
+        InlineKeyboardButton('Series', url='https://t.me/joinchat/AynqWmCb-H1lZDNl')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
