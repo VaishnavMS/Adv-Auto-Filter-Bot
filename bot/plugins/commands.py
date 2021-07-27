@@ -10,10 +10,10 @@ from bot.translation import Translation # pylint: disable=import-error
 async def start(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/AlbertEinstein_TG'),
+        InlineKeyboardButton('I WAS MADE BY', url='https://t.me/joinchat/T2LeiaRPnkELblgU'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('All the movie files be found @FILM_HUNTER__🎥', url='https://t.me/joinchat/awlj6rFn0rM3NzA1')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
